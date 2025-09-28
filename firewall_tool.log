@@ -1,0 +1,123 @@
+2025-09-27 14:54:38,949 - gui.main_window - INFO - Main window initialized successfully
+2025-09-27 14:55:37,168 - gui.main_window - INFO - Application closing
+2025-09-27 15:18:54,181 - utils.config_loader - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-09-27 15:19:45,565 - utils.config_loader - ERROR - Error loading config: Expecting value: line 1 column 1 (char 0)
+2025-09-27 15:20:39,163 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-27 15:20:39,306 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:20:39,346 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:20:39,346 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:20:41,848 - gui.main_window - INFO - Advanced main window initialized
+2025-09-27 15:20:41,849 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:20:41,851 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:20:41,852 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:21:11,858 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 15:21:19,010 - ai.learning_engine - INFO - Continuous learning stopped
+2025-09-27 15:21:23,069 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 15:21:23,070 - gui.main_window - INFO - Application closing
+2025-09-27 15:40:47,690 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-27 15:40:47,807 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:40:47,808 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:40:47,832 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:40:47,832 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:40:50,416 - gui.main_window - INFO - Advanced main window initialized
+2025-09-27 15:40:50,417 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:40:50,418 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:40:50,419 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:41:20,416 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 15:41:45,904 - core.firewall_manager - INFO - Added rule: {'port': 800, 'protocol': 'tcp', 'action': 'ALLOW', 'source': '0.0.0.0/0'}
+2025-09-27 15:41:50,417 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 15:42:17,948 - ai.learning_engine - INFO - Continuous learning stopped
+2025-09-27 15:42:19,685 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 15:42:19,687 - gui.main_window - INFO - Application closing
+2025-09-27 15:48:07,265 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-27 15:48:07,282 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:48:07,384 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:48:07,385 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:48:07,402 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:48:07,402 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:48:08,655 - gui.main_window - INFO - Advanced main window initialized
+2025-09-27 15:48:08,656 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:48:08,657 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:48:08,658 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:51:03,466 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-27 15:51:03,483 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:51:03,585 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:51:03,586 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:51:03,599 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:51:03,600 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:51:04,613 - gui.main_window - INFO - Advanced main window initialized
+2025-09-27 15:51:04,614 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 15:51:04,615 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 15:51:04,615 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 15:51:34,621 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:15:15,982 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-27 16:15:16,004 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:15:16,116 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:15:16,117 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:15:16,131 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 16:15:16,132 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 16:15:17,404 - gui.main_window - INFO - Advanced main window initialized
+2025-09-27 16:15:17,404 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:15:17,405 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 16:15:17,406 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 16:15:47,401 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:16:17,406 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:16:47,407 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:17:17,402 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:17:47,401 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:18:17,408 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:18:47,400 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:19:17,425 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:19:47,400 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:20:16,132 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 16:20:17,401 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:20:17,407 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 16:20:38,915 - ai.learning_engine - INFO - Continuous learning stopped
+2025-09-27 16:20:40,380 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:20:40,380 - gui.main_window - INFO - Application closing
+2025-09-27 16:22:19,611 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-27 16:22:19,630 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:22:19,754 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:22:19,755 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:22:19,769 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 16:22:19,769 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 16:22:20,831 - gui.main_window - INFO - Advanced main window initialized
+2025-09-27 16:22:20,831 - ai.learning_engine - INFO - New AI models initialized
+2025-09-27 16:22:20,832 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-27 16:22:20,833 - ai.learning_engine - INFO - Continuous learning started
+2025-09-27 16:22:50,837 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:23:20,839 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:23:40,751 - ai.learning_engine - INFO - Continuous learning stopped
+2025-09-27 16:23:49,593 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-27 16:23:49,594 - gui.main_window - INFO - Application closing
+2025-09-28 11:00:45,491 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-28 11:00:45,601 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:00:45,832 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:00:45,834 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:00:45,865 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-28 11:00:45,865 - ai.learning_engine - INFO - Continuous learning started
+2025-09-28 11:00:47,929 - gui.main_window - INFO - Advanced main window initialized
+2025-09-28 11:00:47,931 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:00:47,933 - ai.learning_engine - ERROR - Learning loop error: 'LearningEngine' object has no attribute 'optimize_models'
+2025-09-28 11:00:47,933 - ai.learning_engine - INFO - Continuous learning started
+2025-09-28 11:02:24,007 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-28 11:02:24,024 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:02:24,187 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:02:24,188 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:02:24,201 - ai.learning_engine - INFO - Continuous learning started
+2025-09-28 11:02:25,287 - gui.main_window - INFO - Advanced main window initialized
+2025-09-28 11:02:25,288 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:02:25,289 - ai.learning_engine - INFO - Continuous learning started
+2025-09-28 11:13:13,546 - utils.config_loader - INFO - Configuration loaded successfully
+2025-09-28 11:13:13,565 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:13:13,667 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:13:13,668 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:13:13,683 - ai.learning_engine - INFO - Continuous learning started
+2025-09-28 11:13:14,647 - gui.main_window - INFO - Advanced main window initialized
+2025-09-28 11:13:14,648 - ai.learning_engine - INFO - New AI models initialized
+2025-09-28 11:13:14,649 - ai.learning_engine - INFO - Continuous learning started
+2025-09-28 11:13:44,664 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-28 11:14:13,844 - ai.learning_engine - INFO - Continuous learning stopped
+2025-09-28 11:14:14,647 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-28 11:14:16,874 - utils.config_loader - INFO - Configuration saved successfully
+2025-09-28 11:14:16,875 - gui.main_window - INFO - Application closing
