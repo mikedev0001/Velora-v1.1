@@ -1,4 +1,4 @@
-[Velora banner] (bannervelora.png)
+![Velora Banner](bannervelora.png)
 
 # Velora v1.1
 
@@ -99,5 +99,5 @@ Version 1.1 continues this mission by integrating **proxy chaining** for privacy
 
 ## Updates
 
-1.0 - beta tool 
-1.1 - beta bugs fixing and improved AI
+* 1.0 - beta tool 
+* 1.1 - beta bugs fixing and improved AI
